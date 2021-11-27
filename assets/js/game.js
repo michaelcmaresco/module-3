@@ -3,10 +3,15 @@ var playerHealth = 100;
 var playerAttack = 10;
 var playerMoney = 10;
 
+var enemyNames = ["Roborto", "Amy Android", "Robo Trumble"]
+var enemyHealth = 50;
+var enemyAttack = 12;
+
 // You can also log multiple values at once like this
 console.log(playerName, playerAttack, playerHealth);
+HTMLFormControlsCollection.log(enemyNames);
 
-var enemyName = "Roborto";
+var enemyNames = ["Roborto", "Amy Android", "Robo Trumble"];
 var enemyHealth = 50;
 var enemyAttack = 12;
 
